@@ -2,6 +2,25 @@
 
 Order Pro is a comprehensive Flutter application designed for managing orders, inventory, and staff. It features a robust system for tracking business activities, generating invoices, and managing staff salaries.
 
+
+# Supervisor 
+
+-**Marufa Sultana** - Lecturer
+- [@marufacse](https://github.com/marufacse) - Supervisor
+-**Course Name** - Software Engineering
+-**University of Creative Technology, Chittagong**
+
+
+## Contributors ✨
+
+Thanks go to these wonderful people:
+
+- **MD Ali Jaker** – Project Lead & Developer, Database Design, UI/UX
+- [@MDAliJaker](https://github.com/MDAliJaker)
+- **Azmira Khanam** – Project Testing and Improvement guides, Documentation
+- [@AzmiraKhanam](https://github.com/AzmiraKhanam)
+- **Ariful Hoque Emon** – Project Manager, UI/UX suggestions, Presentations
+  
 ## Features
 
 -   **Order Management**: Create, track, and manage customer orders.
@@ -101,3 +120,4 @@ Key dependencies used in this project:
 -   `fl_chart`: Charts and graphs.
 -   `intl`: Internationalization and formatting.
 -   `shared_preferences`: Simple data persistence.
+
