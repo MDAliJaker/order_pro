@@ -7,8 +7,6 @@ Order Pro is a comprehensive Flutter application designed for managing orders, i
 
 **Marufa Sultana** - Lecturer
 - [@marufacse](https://github.com/marufacse)
-- **Course Name:** - Software Engineering Laboratory
-- **Course Code:** - CSE-422
 - **University of Creative Technology, Chittagong**
 
 
@@ -21,7 +19,16 @@ Thanks go to these wonderful people:
 - **Azmira Khanam** – Project Testing and Improvement guides, Documentation
 - [@AzmiraKhanam](https://github.com/AzmiraKhanam)
 - **Ariful Hoque Emon** – Project Manager, UI/UX suggestions, Presentations
-  
+- [@Windy970](https://github.com/Windy970)
+
+
+- **Course Name:** - Software Engineering Laboratory
+- **Course Code:** - CSE-422
+
+- **Department:** - CSE
+- **Semester:** - 8th
+- **Batch: ** - 10th
+- 
 ## Features
 
 -   **Order Management**: Create, track, and manage customer orders.
@@ -121,6 +128,7 @@ Key dependencies used in this project:
 -   `fl_chart`: Charts and graphs.
 -   `intl`: Internationalization and formatting.
 -   `shared_preferences`: Simple data persistence.
+
 
 
 
